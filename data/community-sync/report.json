@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-28T08:34:30.969Z",
+  "ts": "2026-05-28T12:03:16.071Z",
   "currentCount": 10503,
   "src": {
     "johan": {
@@ -19250,15 +19250,17 @@
       "enriched": true
     },
     "gh": {
-      "issueCount": 60,
-      "prCount": 3,
+      "issueCount": 61,
+      "prCount": 2,
       "deviceRequests": [
         {
           "repo": "dlnraja/com.tuya.zigbee",
-          "num": 345,
-          "title": "fix: garage_door_opener DP3 state never applied to Homey",
+          "num": 348,
+          "title": "[Auto] 114 new fingerprints from community (2026-05)",
           "mfrs": [
-            "_TZE608_c75zqghm"
+            "_TZE204_hewlydpz",
+            "_TZE284_gnpflcoq",
+            "_TZB210_qzsxaqqe"
           ]
         },
         {
