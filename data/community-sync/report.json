@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-29T08:39:20.066Z",
+  "ts": "2026-05-29T11:51:43.267Z",
   "currentCount": 10503,
   "src": {
     "johan": {
@@ -19255,8 +19255,8 @@
       "enriched": true
     },
     "gh": {
-      "issueCount": 61,
-      "prCount": 2,
+      "issueCount": 60,
+      "prCount": 3,
       "deviceRequests": [
         {
           "repo": "dlnraja/com.tuya.zigbee",
@@ -19412,6 +19412,28 @@
         },
         {
           "repo": "JohanBendz/com.tuya.zigbee",
+          "num": 1406,
+          "title": "Add Quoya M515EGBZTN support and fix curtain_motor position inversion",
+          "mfrs": [
+            "_TZE200_gubdgai2",
+            "_TZE200_vdiuwbkq",
+            "_TZE200_gubdgai2",
+            "_TZE200_vdiuwbkq"
+          ]
+        },
+        {
+          "repo": "JohanBendz/com.tuya.zigbee",
+          "num": 1405,
+          "title": "Add support for _TZE200_gubdgai2 (TS0601) - Quoya M515EGBZTN Zigbee roller blind / plissé motor",
+          "mfrs": [
+            "_TZE200_gubdgai2",
+            "_TZE200_gubdgai2",
+            "_TZE200_vdiuwbkq",
+            "_TZE200_gubdgai2"
+          ]
+        },
+        {
+          "repo": "JohanBendz/com.tuya.zigbee",
           "num": 1404,
           "title": "Device Request - [Moes mini 2 gang zigbee dimmer/ [ZM-105B-M]",
           "mfrs": [
@@ -19497,28 +19519,6 @@
             "_TZE284_0ints6wl",
             "_TZE284_0ints6wl",
             "_TZE284_0ints6wl"
-          ]
-        },
-        {
-          "repo": "JohanBendz/com.tuya.zigbee",
-          "num": 1395,
-          "title": "Device Request - [1-Gang Zigbee Switch] - [TZ3000_hyarhbyx] / [TS0001]",
-          "mfrs": [
-            "_TZ3000_hyarhbyx",
-            "_TZ3000_hyarhbyx",
-            "_TZ3000_hyarhbyx",
-            "_TZ3000_hyarhbyx"
-          ]
-        },
-        {
-          "repo": "JohanBendz/com.tuya.zigbee",
-          "num": 1393,
-          "title": "Device Request - Tuya - PJ-1203A Bidirectional Energy Meter - _TZE204_81yrt3lo / TS0601",
-          "mfrs": [
-            "_TZE204_81yrt3lo",
-            "_TZE204_81yrt3lo",
-            "_TZE204_81yrt3lo",
-            "_TZE204_81yrt3lo"
           ]
         }
       ]
