@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-30T22:34:50.840Z",
+  "ts": "2026-05-30T23:31:44.676Z",
   "currentCount": 10503,
   "src": {
     "johan": {
@@ -19265,12 +19265,12 @@
       "enriched": true
     },
     "gh": {
-      "issueCount": 58,
+      "issueCount": 57,
       "prCount": 2,
       "deviceRequests": [
         {
           "repo": "dlnraja/com.tuya.zigbee",
-          "num": 350,
+          "num": 352,
           "title": "[Auto] 116 new fingerprints from community (2026-05)",
           "mfrs": [
             "_TZE284_zofmmt9s",
