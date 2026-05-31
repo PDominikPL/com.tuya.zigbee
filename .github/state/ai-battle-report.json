@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-24T09:05:41.756Z",
+  "timestamp": "2026-05-31T10:35:50.127Z",
   "dryRun": false,
   "sources": {
     "external": 1607,
-    "github": 8,
+    "github": 0,
     "forks": 0,
     "johan": 0,
     "gmail": 0,
@@ -24,6 +24,5 @@
     "added": 0,
     "skipped": 0
   },
-  "ghApiCalls": 100,
-  "aiSummary": "```json\n{\n  \"summary\": {\n    \"total_sources_scanned\": 1615,\n    \"confirmed_variants\": 0,\n    \"top_patterns\": [\n      {\n        \"pattern\": \"False Battery Alert / Missing Battery\",\n        \"count\": 37,\n        \"priority\": \"high\"\n      },\n      {\n        \"pattern\": \"Pairing Failure\",\n        \"count\": 18,\n        \"priority\": \"high\"\n      }\n    ]\n  }\n}\n```"
+  "ghApiCalls": 100
 }
