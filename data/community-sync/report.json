@@ -1,5 +1,5 @@
 {
-  "ts": "2026-05-31T21:30:11.893Z",
+  "ts": "2026-05-31T22:17:39.221Z",
   "currentCount": 10503,
   "src": {
     "johan": {
@@ -19280,7 +19280,7 @@
       "enriched": true
     },
     "gh": {
-      "issueCount": 58,
+      "issueCount": 59,
       "prCount": 2,
       "deviceRequests": [
         {
