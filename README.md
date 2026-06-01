@@ -33,7 +33,7 @@ A community-driven Homey app that brings local control to Tuya Zigbee devices �
 ## 🚀 Latest Updates
 
 <!-- CHANGELOG_START - Auto-updated from .homeychangelog.json -->
-### ✨ Recent Changes (May 2026)
+### ✨ Recent Changes (Jun 2026)
 
 | Version | Feature |
 |---------|---------|
@@ -48,6 +48,7 @@ A community-driven Homey app that brings local control to Tuya Zigbee devices �
 | **v8.1.9** | v8.1.9 — No driver changes. |
 | **v8.1.8** | 298 new device fingerprints added. Smart plug driver fixes, rain sensor, wate... |
 <!-- CHANGELOG_END -->
+
 
 
 
