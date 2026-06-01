@@ -1,5 +1,5 @@
 {
-  "ts": "2026-06-01T13:06:21.362Z",
+  "ts": "2026-06-01T18:49:24.511Z",
   "currentCount": 10501,
   "src": {
     "johan": {
@@ -11033,7 +11033,7 @@
       "enriched": true
     },
     "z2m": {
-      "count": 1564,
+      "count": 1562,
       "fingerprints": [
         {
           "mfr": "_TZ3000_zl1kmjqx",
@@ -17360,16 +17360,6 @@
           "source": "Z2M"
         },
         {
-          "mfr": "_TZE204_loejka0i",
-          "productId": null,
-          "source": "Z2M"
-        },
-        {
-          "mfr": "_TZE284_loejka0i",
-          "productId": null,
-          "source": "Z2M"
-        },
-        {
           "mfr": "_TZE204_gomuk3dc",
           "productId": null,
           "source": "Z2M"
@@ -19280,7 +19270,7 @@
       "enriched": true
     },
     "gh": {
-      "issueCount": 53,
+      "issueCount": 54,
       "prCount": 2,
       "deviceRequests": [
         {
@@ -19367,6 +19357,14 @@
             "_TZ3000_b4awzgct",
             "_TZ3000_b4awzgct",
             "_TZ3000_b4awzgct"
+          ]
+        },
+        {
+          "repo": "JohanBendz/com.tuya.zigbee",
+          "num": 1408,
+          "title": "Device Request: Tuya Power Monitoring Plug variant (_TZ3210_jlf1nepw)",
+          "mfrs": [
+            "_TZ3210_jlf1nepw"
           ]
         },
         {
@@ -19531,16 +19529,6 @@
             "_TZ3000_996rpfy6",
             "_TZ3000_996rpfy6",
             "_TZ3000_996rpfy6"
-          ]
-        },
-        {
-          "repo": "JohanBendz/com.tuya.zigbee",
-          "num": 1389,
-          "title": "Device Request – Tuya Smart Knob Switch – _TZ3000_qja6nq5z / TS004F",
-          "mfrs": [
-            "_TZ3000_qja6nq5z",
-            "_TZ3000_qja6nq5z",
-            "_TZ3000_qja6nq5z"
           ]
         }
       ]
@@ -39897,18 +39885,6 @@
       "driver": null
     },
     {
-      "mfr": "_TZE204_loejka0i",
-      "productId": null,
-      "source": "Z2M",
-      "driver": null
-    },
-    {
-      "mfr": "_TZE284_loejka0i",
-      "productId": null,
-      "source": "Z2M",
-      "driver": null
-    },
-    {
       "mfr": "_TZE204_gomuk3dc",
       "productId": null,
       "source": "Z2M",
@@ -41794,5 +41770,5 @@
     }
   ],
   "newCount": 127,
-  "enrichedCount": 2214
+  "enrichedCount": 2212
 }
