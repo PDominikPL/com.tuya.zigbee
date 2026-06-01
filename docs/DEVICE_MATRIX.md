@@ -190,7 +190,7 @@
 | power_meter | 96 | TS0601, TS0601_meter, PJ-1203A, pj-1203a, Pj-1203A | measure_power, meter_power, measure_voltage... |
 | presence_sensor_ceiling | 6 | TS0601_ceiling, TS0601 | alarm_motion, onoff, measure_luminance... |
 | presence_sensor_radar | 500 | CK-BL702-MWS-01, CK-BL702-MWS-01(7016), MG1_5RZ, SZLMR10, TS0203, TS0225, TS0601, ZG-204ZH, ZG-204ZK, ZG-204ZL, ZG-204ZM, ZG-204ZV, ZG-205Z, ZP-301Z, SNZB-06P, ZG-204ZE, ZG-204ZQ, ZG-205ZL, ZG-302ZL, ZG-302ZM | alarm_motion, measure_luminance, measure_temperature... |
-| radar_sensor | 12 | TS0601 | measure_luminance, alarm_motion, target_distance |
+| radar_sensor | 11 | TS0601 | measure_luminance, alarm_motion, target_distance |
 | radar_sensor_2 | 0 | TS0601 | measure_luminance, alarm_motion, target_distance |
 | radar_sensor_ceiling | 0 | TS0225 | measure_luminance, alarm_motion |
 | radiator_controller | 15 | TS0601_rad, TS0601 | onoff, target_temperature, measure_temperature... |
@@ -294,7 +294,7 @@
 | switch_2_gang_metering | 0 | TS0002, TS011F | onoff, measure_power, meter_power... |
 | switch_2gang | 192 | TS0002, TS0012, TS0002_power, TS0002_switch_module, TS0601, ZG-302Z2, TS011F, ZG-305Z, TS0003, TS0013, TS0726 | onoff, onoff.gang2, measure_power... |
 | switch_3_gang | 0 | TS0003 | onoff |
-| switch_3gang | 127 | TS0003, TS0013, TS0003_power, TS0003_switch_module, TS0601, ZG-302Z3, TS0043, TS0040 | onoff, onoff.gang2, onoff.gang3... |
+| switch_3gang | 126 | TS0003, TS0013, TS0003_power, TS0003_switch_module, TS0601, ZG-302Z3, TS0043, TS0040 | onoff, onoff.gang2, onoff.gang3... |
 | switch_4_gang_metering | 0 | TS0004 | onoff, measure_power, meter_power... |
 | switch_4gang | 200 | TS0004, TS0014, TS0004_power, TS0004_switch_module, TS0601, TS0726, JZ-ZB-004 | onoff, onoff.gang2, onoff.gang3... |
 | switch_dimmer_1gang | 12 | TS0601 | onoff, dim |
@@ -364,6 +364,6 @@
 | zigbee_repeater | 39 | TS0207 |  |
 
 ---
-**Total:** 360 drivers, 12027 manufacturer IDs
+**Total:** 360 drivers, 12025 manufacturer IDs
 
-*Generated: 2026-06-01T02:04:11.158Z*
+*Generated: 2026-06-01T13:06:20.683Z*
