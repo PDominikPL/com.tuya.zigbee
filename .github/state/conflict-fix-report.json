@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-05-25T04:35:46.613Z",
-  "before": 993,
-  "resolved": 352,
-  "removed": 213,
-  "unresolved": 641,
+  "timestamp": "2026-06-01T08:26:36.603Z",
+  "before": 4,
+  "resolved": 2,
+  "removed": 2,
+  "unresolved": 2,
   "dryRun": false
 }
