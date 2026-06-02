@@ -1,6 +1,6 @@
 # Monthly Tuya Zigbee Report - 2026-06
 
-*Generated: 2026-06-01T23:28:58.160Z*
+*Generated: 2026-06-02T02:01:53.367Z*
 
 ## 📊 Summary
 
